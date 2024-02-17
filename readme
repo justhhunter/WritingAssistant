@@ -1,0 +1,22 @@
+LAB REPORT WRITER AND EDITOR
+
+Overview:
+This Python-based tool leverages speech recognition to transcribe spoken content into text for lab reports and utilizes OpenAI's GPT models to refine and edit the text. Designed for students and professionals, it aims to streamline the process of creating high-quality, coherent, and professionally styled lab reports by automating the drafting and editing phases.
+
+
+Features:
+Speech to Text: Convert spoken words into written text, making it easier to draft lab reports.
+Automated Editing: Use GPT-powered editing to improve grammar, clarity, and professionalism without altering the original meaning.
+Document Management: Save transcribed and edited content directly to Word documents.
+
+
+Steps to run program:
+Clone repo https://github.com/justhhunter/LabReportAssistant.git
+
+Install dependencies
+pip install -r requirements.txt
+
+Run program in bash/terminal
+python3 main.py
+
+
