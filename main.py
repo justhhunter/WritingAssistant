@@ -7,8 +7,7 @@
 
 
 
-    Chat gpt api key
-    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
+
 """
 
 from dotenv import load_dotenv
@@ -16,7 +15,7 @@ import os
 import sys
 
 # load variables from .env file for api key
-dotenv_path = '/home/hunter/programs/lab_report_writer/api_key.env'
+dotenv_path = '/path/to/.envFile'
 load_dotenv(dotenv_path)
 
 # assign api key
