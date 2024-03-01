@@ -1,4 +1,4 @@
-LAB REPORT WRITER AND EDITOR
+WRITING AND EDITOR ASSISTANT
 
 Overview:
 This Python-based tool leverages speech recognition to transcribe spoken content into text for written content and utilizes OpenAI's GPT models to refine and edit the text. Designed for students and professionals, it aims to streamline the process of creating high-quality, coherent, and professionally styled drafts by automating the drafting and editing phases.
